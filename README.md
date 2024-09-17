@@ -1,2 +1,0 @@
-# ctrlcookie.github.io
-site
