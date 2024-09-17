@@ -34,8 +34,8 @@ a:hover{
   color:var(--link-hover-color);
 }
 #container{
-  max-width:1300px;
-  margin:0 auto;
+  max-width:1000px;
+  margin:0;
   padding:1em;
 }
 pre{
